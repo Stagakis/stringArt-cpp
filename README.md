@@ -7,4 +7,4 @@ As an example, for a target Image:
 
 The process of the algorithm is the following:
 
-![small](https://media.giphy.com/media/zJh9Kgqi9grK14VPV4/giphy.gif | width=640)
+![](https://media.giphy.com/media/zJh9Kgqi9grK14VPV4/giphy.gif =250x250)
