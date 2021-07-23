@@ -7,6 +7,7 @@ As an example, for a target Image:
 
 The process of the algorithm is the following:
 
-![](https://media.giphy.com/media/1U4vDnTgt4NnfAUHPO/giphy-downsized-large.gif)
+![small](https://media.giphy.com/media/1U4vDnTgt4NnfAUHPO/giphy-downsized.gif)
+![social](https://media.giphy.com/media/1U4vDnTgt4NnfAUHPO/giphy-downsized-large.gif)
 ![source](https://media.giphy.com/media/1U4vDnTgt4NnfAUHPO/source.gif)
 ![mp4](https://media.giphy.com/media/1U4vDnTgt4NnfAUHPO/giphy.mp4)
